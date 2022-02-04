@@ -2,7 +2,7 @@ public static Hello {
     public static void main(string[] args) {
         System.out.println("This is a java code ........");
 
-        greeting("Alpine Swift");
+        greeting("linux");
     }
 
     public static void greeting(String name){
