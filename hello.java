@@ -5,7 +5,7 @@ public static Hello {
         greeting("linux");
     }
 
-    public static void greeting(String name){
-        System.out.println("welcome " + name);
+    public static void message() {
+        System.out.println("Now we are able to contributr in open source")
     }
 }
