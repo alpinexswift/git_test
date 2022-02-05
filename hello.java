@@ -6,6 +6,6 @@ public static Hello {
     }
 
     public static void message() {
-        System.out.println("Now we are able to contributr in open source")
+        System.out.println("Now we are able to contribute in open source")
     }
 }
